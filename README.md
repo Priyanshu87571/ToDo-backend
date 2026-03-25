@@ -57,7 +57,9 @@ src/
  │    ├── User.js
  
  │    └── Todo.js
+ 
  ├── routes/
+ 
  │    ├── authRoutes.js
  │    └── todoRoutes.js
  └── server.js
