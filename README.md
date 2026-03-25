@@ -37,6 +37,7 @@ Mongoose ODM
 📁 Folder Structure
 
 src/
+
  ├── config/
  │    └── db.js
  ├── controllers/
