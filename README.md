@@ -49,7 +49,9 @@ src/
  │    └── todoController.js
  
  ├── middleware/
+ 
  │    └── authMiddleware.js
+ 
  ├── models/
  │    ├── User.js
  │    └── Todo.js
