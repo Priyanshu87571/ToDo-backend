@@ -85,6 +85,7 @@ bcrypt for password hashing
 1️⃣ Clone the repository
 
 git clone https://github.com/<your-username>/ToDo-backend.git
+
 cd ToDo-backend
 
 2️⃣ Install dependencies
