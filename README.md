@@ -53,7 +53,9 @@ src/
  │    └── authMiddleware.js
  
  ├── models/
+ 
  │    ├── User.js
+ 
  │    └── Todo.js
  ├── routes/
  │    ├── authRoutes.js
