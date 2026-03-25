@@ -1,4 +1,5 @@
-ToDo Backend (Node.js + Express + MongoDB + JWT)
+ToDo Backend 
+(Node.js + Express + MongoDB + JWT)
 
 A simple and scalable Todo Backend API built using Node.js, Express, MongoDB Atlas, and JWT Authentication.
 This API supports user registration, login, and full CRUD operations for todo items.
