@@ -35,6 +35,7 @@ MongoDB Atlas (Cloud Database)
 Mongoose ODM
 
 📁 Folder Structure
+
 src/
  ├── config/
  │    └── db.js
