@@ -66,7 +66,7 @@ src/
  
  └── server.js
 
-⚙️ Tech Stack
+## Tech Stack
 
 Node.js
 
